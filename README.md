@@ -98,5 +98,7 @@ The following graphs offer a comparative analysis between the top employers for 
 <img width="617" alt="Top 3 hiring companies" src="https://github.com/Soham-123-Prabhu/ChatGPT-impact-on-tech-job-market/assets/79825092/f11a6bc2-a86f-4050-8591-e78080a62b80">
 <img width="611" alt="Top 3 hiring companies 2023" src="https://github.com/Soham-123-Prabhu/ChatGPT-impact-on-tech-job-market/assets/79825092/6fdc1490-1f37-4302-9f4b-88e98dd812e2">
 
+Link to the colab notebook:
+https://colab.research.google.com/drive/179M9o7_G58hTSChIHOIb5DL21kxki-pK#scrollTo=Y7vbQkWWtF2Y
 
 
